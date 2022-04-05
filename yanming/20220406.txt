@@ -1,0 +1,2 @@
+1. https://arxiv.org/pdf/1711.00937.pdf
+2. https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
